@@ -9,7 +9,6 @@ const RightNavbar = () => {
             <SocialLogin></SocialLogin>
             <FindUsOn></FindUsOn>
             <Qzone></Qzone>
-            <AdSection></AdSection>
         </div>
     );
 };
